@@ -1,0 +1,31 @@
+_repo: A-Son-of-the-Middle-Border_28791
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garland, Hamlin
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '1034'
+    url: http://www.gutenberg.org/2009/agents/1034
+    wikipedia: http://en.wikipedia.org/wiki/Hamlin_Garland
+description: Novel which opens in the year 1864 when the narrator's father has just
+  returned from the Civil War to his family and farm in Wisconsin. Western settlement.
+gutenberg_issued: '2009-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Authors, American -- 20th century -- Biography'
+- !lcsh 'Frontier and pioneer life -- Middle West'
+- !lcsh 'Garland, Hamlin, 1860-1940'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+title: A Son of the Middle Border
+url: http://www.gutenberg.org/ebooks/28791
