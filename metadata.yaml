@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Hamlin_Garland
 description: Novel which opens in the year 1864 when the narrator's father has just
   returned from the Civil War to his family and farm in Wisconsin. Western settlement.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28791#A-Son-of-the-Middle-Border
 gutenberg_issued: '2009-05-13'
 gutenberg_type: Text
 identifiers:
